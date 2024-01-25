@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Root */
+
+:root{
+    --oq: white;
+    --bgcolor: black;
+    --raboto: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sens-serif;
+}
+/* 
+.box{
+    width: 100%;
+    height: 300px;
+    background-color: var(--bgcolor);
+}
+p{
+    color: var(--oq);
+    font-family: var(--raboto);
+} */
